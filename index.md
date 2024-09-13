@@ -6,7 +6,7 @@ $^{(2)}$ Department of Mathematics, Physics and Informatics - University of Parm
 
 ## ⬇️ Download the poster
 
-To download the poster, click [here]().
+To download the poster, click [here](https://github.com/iretes/CMSB2024/blob/main/poster.pdf).
 
 The code and data used in the experiments can be consulted [here](https://seriph78.github.io/COTAN_Datasets_analysis).
 
